@@ -16,5 +16,10 @@ namespace SenacApp
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var texto = "NÃO FIZ NADA";
+        }
     }
 }
